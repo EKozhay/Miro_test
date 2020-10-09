@@ -1,6 +1,6 @@
 import pytest
-from LoginPage import LoginPage
-from Pages.TestForgotPasswordPage import TestForgetPasswordPage
+from Pages.LoginPage import LoginPage
+from TestForgotPasswordPage import TestForgetPasswordPage
 
 '''To execute the tests firstly you need to specify correct email and password for Miro user.'''
 email = ''
